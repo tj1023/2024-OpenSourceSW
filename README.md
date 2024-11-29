@@ -4,6 +4,4 @@
 
 ### pull check
 
-#### sample1에서 수정
-
-#### sample1에서 수정
+#### 최종 merge
